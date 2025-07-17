@@ -2,10 +2,6 @@
 
 I am full-stack developer living in Tokyo, Japan.
 
-[LinkedIn](https://www.linkedin.com/in/kazuhide-izawa-issac/)
-
----
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawaPaP&layout=compact&theme=dark&count_private=true&include_all_commits=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZawaPaP&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
