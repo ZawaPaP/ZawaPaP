@@ -1,17 +1,6 @@
 # Hello World, I am Kazu.
 
-I am full-stack developer living in Tokyo, Japan.
-
-[LinkedIn](https://www.linkedin.com/in/kazuhide-izawa-issac/)
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawaPaP&layout=compact&theme=dark&count_private=true&include_all_commits=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZawaPaP&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
----
-
-### 技術スタック
+I am full-stack developer living in Tokyo, Japan. I am a quick learner and I am always looking for new challenges.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
@@ -23,5 +12,12 @@ I am full-stack developer living in Tokyo, Japan.
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawaPaP&layout=compact&theme=dark&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZawaPaP&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+---
 
 _このプロフィールは自動更新されています。_
